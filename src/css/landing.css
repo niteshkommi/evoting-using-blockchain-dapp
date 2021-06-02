@@ -9,12 +9,12 @@ body {
 }
 
 .jumbotron{
-  background-image: url("../img/banner.jpg");
+  background-image: url("../img/banner.gif");
   background-size:cover;
 }
 
 #votingPage{
-  margin-top:95px;
+  margin-top:7px;
 }
 
 #blockvote-card{
