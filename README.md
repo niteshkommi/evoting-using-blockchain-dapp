@@ -12,7 +12,7 @@ The proposed model is a fully decentralized e-voting system based on blockchain 
 1. Clone the repo: `git clone https://github.com/niteshkommi/evoting-using-blockchain-dapp/`
 2. Navigate to the folder: `cd evoting-using-blockchain-dapp`
 3. Install dependencies: `npm install`
-4.'truffle migrate --reset'
+4. Run cmd: `truffle migrate --reset`
 5. Run server: `npm run dev`
 6. login with metamask
 7. import the ganache account using ganache private key
